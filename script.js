@@ -1,1 +1,1 @@
-const m=document.querySelector('.menu'),l=document.querySelector('.links');m.addEventListener('click',()=>l.classList.toggle('open'));document.querySelectorAll('.links a').forEach(a=>a.addEventListener('click',()=>l.classList.remove('open')));
+const m=document.querySelector('.menu'),l=document.querySelector('.links');m.onclick=()=>l.classList.toggle('open');document.querySelectorAll('.links a').forEach(a=>a.onclick=()=>l.classList.remove('open'));
