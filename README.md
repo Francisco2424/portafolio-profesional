@@ -1,2 +1,3 @@
-# portafolio-profesional
-Portafolio profesional de Francisco Mallea - Automatización, sistemas y datos
+# Portafolio profesional
+
+Sitio profesional de Francisco Javier Mallea Yañez.
